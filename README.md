@@ -2,7 +2,7 @@
 
 Winget Installer is a Powershell script to install [Windows Package Manager CLI](https://github.com/microsoft/winget-cli/)
 
-## This Install file isn't fully tested, so may not work in some machines.
+## This Install file isn't fully tested, so it may not work in some machines.
 
 ## Installation
 
